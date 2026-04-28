@@ -2,6 +2,7 @@ Repositório com projetos desenvolvidos para praticar os fundamentos da linguage
 
 
 Calculadora
+
 Calculadora interativa com menu de opções no terminal.
 Funcionalidades:
 
@@ -12,6 +13,7 @@ Tratamento de entradas inválidas com try/except
 
 
 Gerenciador de Lista
+
 Programa para gerenciar uma lista de itens no terminal.
 Funcionalidades:
 
@@ -22,6 +24,7 @@ Validação de entradas inválidas
 
 
 Par ou Ímpar
+
 Verificador de números pares e ímpares com loop contínuo.
 Funcionalidades:
 
